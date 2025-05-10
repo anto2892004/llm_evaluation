@@ -1,0 +1,5 @@
+Model,Faithfulness
+gpt4_1_nano,0.5
+llama-3-8b,0.4259259259259259
+nova-micro,0.822121212121212
+qwen-3-4b,0.6496428571428571
